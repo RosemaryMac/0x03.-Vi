@@ -1,11 +1,11 @@
-# 0x03-vi
+# 0x03-vi :file_folder:
 After **Emacs**, it’s time to play with **Vi**.
-## Resources
+## Resources :open_book:
 Read or watch:
 
 - [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
-## Learning Objectives
+## Learning Objectives :page_with_curl:
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google**:
 - What is vi
 - Who is Bill Joy
