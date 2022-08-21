@@ -1,4 +1,4 @@
-# 0x02.vi or 0x03.vi :file_folder:
+# 0x02 / 0x03.vi :file_folder:
 After **Emacs**, it’s time to play with **Vi**.
 ## Resources :open_book:
 Read or watch:
